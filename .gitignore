@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+.venv/
+.tmp_venv/
+__pycache__/
+
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# Ignore dataset cache files (optional)
+*.csv
+
+# Node dependencies
+node_modules/
+
+# Mac system files
+.DS_Store
